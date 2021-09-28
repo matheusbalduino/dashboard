@@ -1,10 +1,36 @@
-# AreaDoCliente
+# Projeto Área do Cliente
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Para Rodar este projeto primeiramente é necessário instalar os seguintes pacotes:
+  
+  npm install
+
+  `ng add @angular/material` 
+    
+    -> escolha a opção indico
+    
+    -> selecione Y 
+    
+    -> selecione Y
+
+  `npm i highcharts-angular --save`
+  
+  `npm i highcharts --save`
+  
+ ` npm i @angular/flex-layout @angular/cdk --save`
+  
+  `npm i ngx-spinner`
+  
+ ` npm i jquery`
+ 
+ 
+
+Depois rode o projeto com:
+  
+  `ng serve`
 
 ## Code scaffolding
 
